@@ -7,8 +7,10 @@
     "@material-ui/core": "^4.1.1",
     "@material-ui/icons": "^4.2.0",
     "@material-ui/lab": "^4.0.0-alpha.16",
-    "@material-ui/styles": "^4.0.0",
+    "@material-ui/styles": "^4.10.0",
     "gh-pages": "^2.0.1",
+    "jss": "^10.3.0",
+    "jss-rtl": "^0.3.0",
     "numeral": "^2.0.6",
     "opencollective-postinstall": "^2.0.2",
     "query-string": "^6.2.0",
@@ -18,6 +20,7 @@
     "react-scripts": "3.0.1",
     "react-swipeable-views": "^0.13.0",
     "react-swipeable-views-utils": "^0.13.0",
+    "react-values": "^0.3.3",
     "recharts": "^1.3.5"
   },
   "scripts": {
